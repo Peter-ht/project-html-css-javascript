@@ -5,3 +5,4 @@ const testimonials = [ {
     name ="Abdullahi Mohammed"; text ="When given an assignment he is able to come up with problem-solving methods on how we can manage and find solution to the given task. "
 }
 ]
+const projects
