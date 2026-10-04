@@ -12,7 +12,7 @@ const testimonials = [
         text: "Peter is a very hardworking and dedicated person who is able to complete his tasks on time and he is able to work with his team mates to achieve the best results."
     }
 ];
-const projects = [
+const projects
     {
         title: "portfolio project",
         description: "This is a portfolio project that I have built and it is a responsive website that showcases my skills and projects.",
