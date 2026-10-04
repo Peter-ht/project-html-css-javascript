@@ -33,3 +33,10 @@ bash
 git clone https://github.com/Peter-ht/project-html-css-javascript.git
 
 ```
+
+---
+
+## What have learned
+I have gain a new skill that one can also **put content on the JAVASCRIPT and then loop it to HTML through arrays , variables and functions.** And also have learnt to build a website from scracth.
+
+---
