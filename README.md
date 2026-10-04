@@ -28,6 +28,8 @@ This project is about how you can write the content of HTML in JavaScript that a
 
 ## How to run locally
 
-```bash
+```
+bash
 git clone https://github.com/Peter-ht/project-html-css-javascript.git
+
 ```
