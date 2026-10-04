@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Peter Mwene portfolio</title>
-
+    <link rel="stylesheet" href="style.css">
+    <title>peter webpage</title>
 </head>
 <body>
     <header>
-        <h2>Peter Mwene</h2>
-        <nav>
+        <nav class="navigation">
+            <div class="logo">
+                <h2>peter mwene</h2>
+            </div>
             <ul>
                 <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#projects">Projects</a></li>
@@ -19,22 +20,31 @@
         </nav>
     </header>
     <main>
+        <section class="hero">
+            <div class="hero-content">
+        <h1>Hi, I'm Peter Mwene</h1>
+                <p>I'm a web developer passionate about creating beautiful and functional websites.</p>
+            </div>
+        </section>
         <section id="testimonials">
-            <h2>Testimonials</h2>
-            <div id="testimonial-list"></div>
+                <h1>Testimonial</h1>
+            <div id="testimonial-list"></div> 
         </section>
         <section id="projects">
-            <h2>Projects</h2>
+            <h1>Projects</h1>
             <div id="project-list"></div>
         </section>
         <section id="contact">
-            <h2>Contact</h2>
-            <p>Email: <a href="mailto:peter.mwene@student.moringaschool.com">peter.mwene@student.moringaschool.com</a></p>
-            <p>GitHub: <a href="https://github.com/Peter-ht">Peter-ht</a></p>
+            <h1>Contact</h1>
+            <p><a href="mailto:peter.mwene@student.moringaschool.com">peter.mwene@student.moringaschool.com</a></p>
+            <p><a href="https://github.com/Peter-ht" target="_blank">GitHub Profile</a></p>
         </section>
-       
+        <script src="script.js"></script>
     </main>
-     <script src="script.js"></script>
-
+    <footer>
+        <p>&copy; 2026 Peter Mwene. All rights reserved.</p>
+    </footer>
+    
+    
 </body>
 </html>
